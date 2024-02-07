@@ -10,9 +10,9 @@ export const Bio = {
   resume:
     "https://drive.google.com/file/d/1IX1YGRKd7MI_ufzX30-YX3rBBnhsXz8I/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/gautam-jha-44920b224",
-  twitter: "https://twitter.com/RishavChanda",
-  insta: "https://www.instagram.com/rishav_chanda/",
-  facebook: "https://www.facebook.com/rishav.chanda.165/",
+  // twitter: "https://twitter.com/RishavChanda",
+  insta: "https://www.instagram.com/gautamjha306/?igsh=MWZscnBjY2lpd2N6bQ%3D%3D",
+  // facebook: "https://www.facebook.com/rishav.chanda.165/",
 };
 
 export const skills = [
@@ -78,6 +78,11 @@ export const skills = [
         name: "Firebase",
         image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
       },
+      {
+        name: "AWS",
+        image:
+          "https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png",
+      },
     ],
   },
   
@@ -107,6 +112,11 @@ export const skills = [
     title: "Others",
     skills: [
       {
+        name: "Data Structure and Algorithm",
+        image:
+          "https://img.icons8.com/?size=160&id=wDGo581Ea5Nf&format=png",
+      },
+      {
         name: "Git",
         image:
           "https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png",
@@ -121,21 +131,8 @@ export const skills = [
         image:
           "https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png",
       },
-      {
-        name: "VS Code",
-        image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519",
-      },
-      {
-        name: "Postman",
-        image:
-          "https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png",
-      },
-      {
-        name: "AWS",
-        image:
-          "https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png",
-      },
+      
+     
       
     ],
   },
