@@ -78,11 +78,11 @@ export const skills = [
         name: "Firebase",
         image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
       },
-      {
-        name: "AWS",
-        image:
-          "https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png",
-      },
+      // {
+      //   name: "AWS",
+      //   image:
+      //     "https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png",
+      // },
     ],
   },
   
@@ -349,7 +349,7 @@ export const projects = [
       {
         name:"Nimit Sethi",
       },
-      
+
     ],
     // webapp: "https://hostel-managament.netlify.app/",
    
