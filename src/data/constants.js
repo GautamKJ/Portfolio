@@ -301,7 +301,7 @@ export const projects = [
     description:
       "CropCure is an app that can help farmers to accurately detect potato plant diseases just with a click of a photo on their smartphone.",
     image:
-      "https://private-user-images.githubusercontent.com/97722291/300933002-bbc26624-49c2-42cd-9cdf-81ad111781a3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDcyNTE2NzEsIm5iZiI6MTcwNzI1MTM3MSwicGF0aCI6Ii85NzcyMjI5MS8zMDA5MzMwMDItYmJjMjY2MjQtNDljMi00MmNkLTljZGYtODFhZDExMTc4MWEzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjA2VDIwMjkzMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc5Y2QwNTg0OTY3OWJiMjk0NjczYWEwYWRlODU1OWY4NThmOTg2NjZlMTZhMTZjYWRkMjQ1ZjBjNzQ3M2IxYTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.vOLmq8L5xuyeZev4UFKsNzrA8oliatzBHanEoLadiJA",
+      "./././cropcure.png",
     tags: [
      "Android Studio",
      "Java",
@@ -337,6 +337,20 @@ export const projects = [
        ],
     category: "web app",
     github: "https://github.com/GautamKJ/BIOMETRIC_ATTENDANCE",
+    member: [
+      {
+        name: "Gautam Kumar Jha",
+        
+      },
+      {
+        name: "Divyansh Mishra",
+        
+      },
+      {
+        name:"Nimit Sethi",
+      },
+      
+    ],
     // webapp: "https://hostel-managament.netlify.app/",
    
   },
