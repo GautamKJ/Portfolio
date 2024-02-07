@@ -247,7 +247,7 @@ export const education = [
   {
     id: 0,
     img: "/lnmiit_logo.jpeg",
-    school: "The LNM Institute Of Technology,Jaipur",
+    school: "The LNM Institute Of Information Technology,Jaipur",
     date: "Nov 2020 - May 2024",
     grade: "7.11 CGPA",
     desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at LNMIIT where I am learning and working on exciting projects with a team of talented developers.",
@@ -259,7 +259,7 @@ export const education = [
     school: "JESUS AND MARY ACADEMY,Bihar",
     date: " June 2017- Mar 2019",
     grade: "83.6%",
-    desc: "I completed my class 12 high school education at JESUS AND MARY ACADEMY, Darbhanga ,Bihar , where I studied PCM.",
+    desc: "I completed my class 12th high school education from JESUS AND MARY ACADEMY, Darbhanga ,Bihar,x where I studied PCM.",
     degree: "CBSE(XII), PCM",
   },
   {
@@ -268,8 +268,8 @@ export const education = [
     school: "BAL KALYAN PUBLIC SCHOOL, Bihar",
     date: " April 2015- Mar 2017 ",
     grade: "10CGPA",
-    desc: "I completed my class 10 education at BAL KALYAN PUBLIC SCHOOL, Bihar.",
-    degree: "CBSE(X), Matric",
+    desc: "I completed my class 10th education from BAL KALYAN PUBLIC SCHOOL, Bihar.",
+    degree: "CBSE(X)",
   },
 ];
 
