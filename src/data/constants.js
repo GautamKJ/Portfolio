@@ -344,7 +344,7 @@ export const projects = [
     tags: ["React Js", "MongoDb", "Node Js", "Express Js","AWS"],
     category: "web app",
     github: "https://github.com/GautamKJ/DNS-Manager-System",
-    webapp: "https://master--dns-managersystem.netlify.app/",
+    webapp: "https://dns-managersys.netlify.app/",
    
   },
   {
